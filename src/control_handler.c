@@ -1,6 +1,6 @@
 /**
  * @control_handler
- * @author  Swetank Kumar Saha <swetankk@buffalo.edu>
+ * @author  Sanjay Muthu Manickam
  * @version 1.0
  *
  * @section LICENSE
